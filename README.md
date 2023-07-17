@@ -1,24 +1,3 @@
-
-# Potato Disease
-
-Farmers who grow potatoes face significant economic losses every year due to various diseases that afflict potato plants. Two common diseases, known as **early blight** and **late blight**, are frequently found in potatoes. Early blight is caused by a fungus, and late blight is caused by a specific microorganism. The treatments for early and late blight differ slightly, making it crucial for us to accurately identify the type of disease present in these potato plants. If farmers can detect these diseases early, they can apply the appropriate treatments, which can prevent a substantial amount of potato waste and mitigate economic loss.
-
-**Normal Leaf** 
-
-![can-you-eat-potato-leaves](https://github.com/kitarp29/Lyfestyle/assets/51821426/efeb52a9-e056-4199-9653-5121e4e97faa)
-
-
-**Late Blight** 
-
-![Late_blight_on_potato_leaf_2](https://github.com/kitarp29/Lyfestyle/assets/51821426/0d5b0103-9bf2-43ed-823c-e19736c512d1) 
-
-
-**Early Bligh** 
-
-![360_F_193330506_orXVo0h8TujaPFMmll2O8rVKGJzRr3zW](https://github.com/kitarp29/Lyfestyle/assets/51821426/61340355-a102-4c95-bdd3-6ec3c8e111e4)
-
-
-
 # Potato Disease
 
 Farmers who grow potatoes face significant economic losses every year due to various diseases that afflict potato plants. Two common diseases, known as **early blight** and **late blight**, are frequently found in potatoes. Early blight is caused by a fungus, and late blight is caused by a specific microorganism. The treatments for early and late blight differ slightly, making it crucial for us to accurately identify the type of disease present in these potato plants. If farmers can detect these diseases early, they can apply the appropriate treatments, which can prevent a substantial amount of potato waste and mitigate economic loss.
@@ -42,13 +21,6 @@ Treatment for early blight and late blight are a little different so it is very 
 
 
 It is a mobile application and web application which is taken to a  farmer. And the farmer  all they need to do is go to his/her farm and just take a picture of the plant and the mobile  application will tell them whether the  potato plant is healthy or it has one of these disease  and behind the scene it will be using deep learning and convolutional neural network.
-
-
-
-
-
-
-
 
 
 
