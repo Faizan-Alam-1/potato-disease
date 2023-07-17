@@ -22,7 +22,9 @@ Treatment for early blight and late blight are a little different so it is very 
 
 It is a mobile application and web application which is taken to a  farmer. And the farmer  all they need to do is go to his/her farm and just take a picture of the plant and the mobile  application will tell them whether the  potato plant is healthy or it has one of these disease  and behind the scene it will be using deep learning and convolutional neural network.
 
+# Architecture
 
+![Untitled Diagram drawio (2)](https://github.com/kitarp29/Lyfestyle/assets/51821426/7d1289f1-b05b-436d-a565-e41de7565ca4)
 
 ## Setup for Python:
 
